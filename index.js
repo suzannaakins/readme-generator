@@ -109,8 +109,6 @@ function writeToFile(data) {
         });
     });
 };
-//(data from the prompts, pass it into the generateMarkdown function in that file, then )
-
 
 // function to initialize program
 function init() {

@@ -11,34 +11,20 @@ It's time consuming to look up markdown syntax every time I write a readme for a
 
 * [Usage](#usage)
 
-
 * [Contributing](#contributing)
 
-
-* [Tests](#tests)
 * [Questions](#questions)
 
 
 ## Installation
 To install necessary dependencies, run the following command:
 npm i
-  
-
 
 ## Usage
 You will need to download to your computer. Please install inquirer from the command line, and the application should run when you type "node index" from the command line.
 
-
-
 ## Contributing
 If you want to add a section to your readme that I don't have the option for, just add the prompt to index.js.  Then you will need to add it to the Table of Contents and the section in generateMarkdown.js.  Don't forget to add a function to handle an empty user response for your new section!
-
-
-
-
-## Tests
-To run tests, run the following command: 
-npm test
 
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at suzannaakins@gmail.com.
