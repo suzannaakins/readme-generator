@@ -1,0 +1,28 @@
+Steps to Tackle This Challenge
+
+Set up the project
+-download starter file
+-create github repository
+-create issues on github
+
+Capture User Input - Install Inquirer
+
+Print Dynamic Output
+
+Create New Git Branches as you Go
+
+Create ReadMe TEMPLATE
+
+Generate the readme file (use fs)
+
+Modularize the Code
+
+Create a Gitignore file
+
+Validate REQUIRED Answers (project title + description)
+
+Conditionally create the unrequired sections
+
+Use Promises?
+
+Close github Issues
