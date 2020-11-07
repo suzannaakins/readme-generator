@@ -1,8 +1,6 @@
 
 # Read Me Generator
 
-
-
 ## Description
 It's time consuming to look up markdown syntax every time I write a readme for a repo - I can never seem to remember the exact spacing, etc.  So this is an easy way to write one, using a generator, straight from my command line!  I love it and hope you do too. 
 

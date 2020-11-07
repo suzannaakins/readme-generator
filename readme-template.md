@@ -16,6 +16,7 @@
 
   ## Usage
   ${data.usage}
+  View the final app here: [Final App](${data.link})
 
   ## Contributing
   ${data.contributing}
@@ -25,5 +26,5 @@
   ${data.tests}
 
   ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at ${data.email}.
+  If you have any questions about the repo, please open an issue.
   You can find more of my work at github.com/${data.username}.

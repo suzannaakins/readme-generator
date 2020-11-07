@@ -85,6 +85,11 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'link',
+        message: 'What is the link to your application?',
+    },
+    {
+        type: 'input',
         name: 'contributing',
         message: 'What does the user need to know about contributing to the repo?',
     },

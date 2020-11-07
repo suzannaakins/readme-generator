@@ -1,10 +1,10 @@
 
-# Read Me Generator
+# Tech Blog
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## Description
-I wanted to make quick readmes without having to think about markdown syntax.
+This is my first full stack application, where I developed the backend using sequelize to create databases, and routes. Then I used handlebars to make the front end HTML templates.  It was challenging to keep track of so many folders and files, but all came together in the end!  I am still having issues with trying to reset the login and signup forms, but nothing seems to fix it.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -15,34 +15,31 @@ I wanted to make quick readmes without having to think about markdown syntax.
 * [Contributing](#contributing)
 
 
-* [License](#license)
-
 * [Tests](#tests)
 * [Questions](#questions)
 
 
 ## Installation
 To install necessary dependencies, run the following command:
-npm i
+npm install express sequelize mysql2 dotenv
   
 
 
 ## Usage
-Install Inquirer
+You will need to populate the connection with YOUR DB_NAME and DB_PASSWORD for mysql2.
 
 
 
 ## Contributing
-It's good to go!
+Be my guest!
 
 
-## License
-This project is licensed under the MIT License.
+
 
 ## Tests
 To run tests, run the following command: 
 npm test
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at suzanna@gmail.com.
+If you have any questions about the repo, open an issue or contact me directly at suzannaakins@gmail.com	.
 You can find more of my work at github.com/suzannaakins.
